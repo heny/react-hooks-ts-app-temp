@@ -1,5 +1,5 @@
-import axios, { AxiosResponse, AxiosRequestConfig } from 'axios'
-import { getToken, removeToken, getHost } from '@/common/utils/common'
+import axios, { AxiosResponse, AxiosRequestConfig } from 'axios';
+import { getToken, removeToken, getHost } from '@/common/utils/common';
 // import store from '@/store/index'
 
 declare type Methods =
